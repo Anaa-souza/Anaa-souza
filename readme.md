@@ -3,10 +3,9 @@
 
 <img align="center" alt="" src="./src/header-gif.gif"> Olá, sou estudante do senai!
 
-<img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
-<div align="center">
+
   <a href="https://github.com/andreinaoliveira">
-    < align="center"<img itemprop="contentUrl" data-original="https://pngimg.com/uploads/welcome/welcome_PNG19.png" src="https://pngimg.com/uploads/welcome/welcome_PNG19.png" alt="Bem-vindo PNG" title="Bem-vindo PNG" style="border:0;width:auto;width: 330px;max-height:550px;">>
+    <img itemprop="contentUrl" data-original="https://pngimg.com/uploads/welcome/welcome_PNG19.png" src="https://pngimg.com/uploads/welcome/welcome_PNG19.png" alt="Bem-vindo PNG" title="Bem-vindo PNG" style="border:0;width:auto;width: 330px;max-height:550px;">>
   </a>
 </div>
 <br>
