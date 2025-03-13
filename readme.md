@@ -5,7 +5,7 @@
 
 
   <a href="https://github.com/Anaa-souza">
-    <img itemprop="contentUrl" data-original="https://pngimg.com/uploads/welcome/welcome_PNG19.png" src="https://pngimg.com/uploads/welcome/welcome_PNG19.png" alt="Bem-vindo PNG" title="Bem-vindo PNG" style="border:0;width:auto;width: 330px;max-height:550px;">
+    <img itemprop="contentUrl" data-original="https://pngimg.com/uploads/welcome/welcome_PNG19.png" src="https://pngimg.com/uploads/welcome/welcome_PNG19.png" alt="Bem-vindo PNG" title="Bem-vindo PNG" style="border:0;width:auto;width: 330px;max-height:550px;"><img src="https://e7.pngegg.com/pngimages/287/52/png-clipart-cartoon-star-decoration-pattern-cartoon-star.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 900px; height: 237px; margin: 0px; width: 267px;" alt="Padrão de decoração estrela dos desenhos animados, desenho animado, estrela  png | PNGEgg" jsname="kn3ccd" aria-hidden="false">
   </a>
 </div>
 <br>
