@@ -6,7 +6,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
 <div align="center">
   <a href="https://github.com/andreinaoliveira">
-    <img align="center" src="Welcome.png" width="500">
+    < align="center"<img itemprop="contentUrl" data-original="https://pngimg.com/uploads/welcome/welcome_PNG19.png" src="https://pngimg.com/uploads/welcome/welcome_PNG19.png" alt="Bem-vindo PNG" title="Bem-vindo PNG" style="border:0;width:auto;width: 330px;max-height:550px;">>
   </a>
 </div>
 <br>
