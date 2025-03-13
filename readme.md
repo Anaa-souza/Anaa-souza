@@ -1,7 +1,7 @@
+## Carol
 
 
-
-<img align="center" alt="" src="./src/header-gif.gif"> # Ana🌟
+<img align="center" alt="" src="./src/header-gif.gif"> 🌟
 
 
   <a href="https://github.com/Anaa-souza">
