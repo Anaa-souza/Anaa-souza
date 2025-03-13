@@ -38,11 +38,10 @@ tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark
 -->
 
 
-MEU LINKEDIN| ![](https://www.linkedin.com/feed/) |
-| :-: | :-: | :-: |
+MEU LINKEDIN
+| ![](https://www.linkedin.com/feed/) |
+|
 
-
-| :-: | :-: |
 
 
 
