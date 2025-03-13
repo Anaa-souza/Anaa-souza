@@ -29,7 +29,7 @@ Eu sou aluna do SENAI JACOB e estou cursando TI. Futuramente pretendo seguir na 
  
 
 ## ⭐️ 
-Meu linkedin: https://www.linkedin.com/feed/
+Meu linkedin:https://www.linkedin.com/in/ana-carolina-fonseca-souza-48743b352/
 
 
 
