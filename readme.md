@@ -33,14 +33,7 @@ Eu sou aluna do SENAI JACOB e estou cursando TI. Futuramente pretendo seguir na 
 
 
 
-theme=ocean_dark 
-tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
--->
 
-
-MEU LINKEDIN
-| ![](https://www.linkedin.com/feed/) |
-|
 
 
 
