@@ -1,7 +1,7 @@
 
 
 
-<img align="center" alt="" src="./src/header-gif.gif"> Olá, sou estudante do senai!
+<img align="center" alt="" src="./src/header-gif.gif"> # Ana🌟
 
 
   <a href="https://github.com/Anaa-souza">
