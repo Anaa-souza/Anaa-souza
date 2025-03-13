@@ -5,7 +5,7 @@
 
 
   <a href="https://github.com/Anaa-souza">
-"<img src="https://i.pinimg.com/originals/fd/67/d8/fd67d824a377f25100bf849f2a62d5d7.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 400px; height: 141px; margin: 0px; width: 353px;" alt="San Diego Stars Lions Club - Lions e-Clubhouse" jsname="kn3ccd">">
+  <img src="https://media.tenor.com/zgUJ_1xJxD8AAAAj/welcome-gif.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 200px; height: 117px; margin: 0px; width: 236px;" alt="Welcome Gif Sticker - Welcome Gif Y2k - Discover &amp; Share GIFs" jsname="kn3ccd">
   </a>
 </div>
 <br>
