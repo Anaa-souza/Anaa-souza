@@ -15,7 +15,7 @@
 
 ## ⭐️ Sobre mim
 
-Eu sou aluna do SENAI JACOB e estou cursando TI. Futuramente pretendo seguir na área, pois me interesso bastante! Espero me sair bem nessa área. 😸
+Eu sou aluna do SENAI JACOB e estou cursando TI. Futuramente pretendo seguir na área! Espero me sair bem nessa área. 😸
 
 <div align="center">
  
