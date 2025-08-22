@@ -20,7 +20,6 @@ Explorando o universo do T.I💻
 <div align="center">
  
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/643ef1d4-6639-475b-ae06-a3bafad57cba/ddkglud-7e8e20db-e815-4796-a7b0-cf6a8bf7289d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY0M2VmMWQ0LTY2MzktNDc1Yi1hZTA2LWEzYmFmYWQ1N2NiYVwvZGRrZ2x1ZC03ZThlMjBkYi1lODE1LTQ3OTYtYTdiMC1jZjZhOGJmNzI4OWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-pKXK8afbXnWAxu7T8EBi4Vws_fwjk-t2ATnlwxuoCQ" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 250px; height: 237px; margin: 0px; width: 237px;" alt="My Melody pixel 5 by sanrio-gifs on DeviantArt" jsname="kn3ccd">
 
 <div align="center">
  
