@@ -13,7 +13,7 @@
 <div align="center">
 
 
-## ⭐️ Sobre mim
+
 
 Explorando o universo do T.I💻
 
