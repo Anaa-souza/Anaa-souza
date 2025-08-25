@@ -25,7 +25,7 @@ Explorando o universo do T.I💻
  
 
 ## ⭐
-Meu linkedin:https://www.linkedin.com/in/ana-carolina-fonseca-souza-48743b352/
+LinkedIn:https://www.linkedin.com/in/ana-carolina-fonseca-souza-48743b352/
 
 <img src="https://i.gifer.com/3EdE.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 200px; height: 200px; margin: 0px; width: 200px;" alt="Hello kitty transparent GIF on GIFER - by Munizius" jsname="kn3ccd">
 
