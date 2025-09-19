@@ -15,7 +15,8 @@
 ## 📌 Onde me encontrar
 
 
-💼 LinkedIn
+💼 LinkedIn  
+https://www.linkedin.com/in/ana-carolina-fonseca-souza-48743b352/
 
 🐙 GitHub
 
