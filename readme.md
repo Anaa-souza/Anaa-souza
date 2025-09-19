@@ -10,14 +10,16 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,figma" alt="Tecnologias"/> </div>
+
+
 ## 📌 Onde me encontrar
+
 
 💼 LinkedIn
 
 🐙 GitHub
 
-## ✨ Estatísticas
-<div align="center">
+
 
 
 
