@@ -26,7 +26,5 @@ https://github.com/Anaa-souza
 
 
 
-</div>
-<div align="center"> <img src="https://i.gifer.com/3EdE.gif" width="200px" alt="Hello Kitty Gif"> </div>
 
 
