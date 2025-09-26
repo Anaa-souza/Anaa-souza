@@ -3,7 +3,7 @@
   <img src="https://wallpapers-clan.com/wp-content/uploads/2023/09/sanrio-cute-hello-kitty-pink-desktop-wallpaper-preview.gif" alt="Hello Kitty" width="100%" />
 </p>
 
-<h1 align="center">Oi, eu sou a Ana 👋</h1>
+<h1 align="center">Ana</h1>
 <h3 align="center">Explorando o universo da Tecnologia da Informação 💻</h3>
 
 ---
