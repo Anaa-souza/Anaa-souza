@@ -1,74 +1,51 @@
+<h1 align="center">Ana Souza</h1>
 <p align="center">
-  <img src="https://wallpapers-clan.com/wp-content/uploads/2023/09/sanrio-cute-hello-kitty-pink-desktop-wallpaper-preview.gif" alt="Hello Kitty" width="100%">
+  <strong>Estudante de Tecnologia da Informação</strong> • Front-end • UI/UX
 </p>
 
-<h1 align="center"> 🤍 Ana Souza 🤍 </h1>
-<h3 align="center">Explorando o universo da Tecnologia da Informação 💻</h3>
+---
+
+## 👩🏽‍💻 Sobre mim
+
+Sou estudante de Tecnologia da Informação, com foco em desenvolvimento front-end e interesse em design e experiência do usuário.  
+Busco constantemente evoluir minhas habilidades por meio de projetos práticos e aprendizado contínuo.
+
+- 🎯 Foco em HTML, CSS e lógica de programação  
+- 🎨 Interesse em interfaces modernas e usabilidade  
+- 🚀 Em constante evolução na área de tecnologia  
 
 ---
 
-## 🙋🏽‍♀️ Sobre mim  
+## 🛠️ Tecnologias e Ferramentas
 
-✨ Apaixonada por aprender e explorar o universo da **Tecnologia da Informação**.  
-📚 Estudante dedicada, focada em **HTML**, **CSS** e **lógica de programação**.  
-🎨 Interessada em **front-end**, **design** e **usabilidade**.  
-🚀 Sempre buscando evoluir com projetos práticos e criativos.  
-
----
-
-## 🛠️ Tecnologias & Ferramentas  
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,figma" alt="Tecnologias e Ferramentas">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,figma" />
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊 Estatísticas
 
-<div align="center">
-
-| 📈 Estatísticas | 📌 Linguagens |
-|-----------------|---------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Anaa-souza&show_icons=true&theme=radical" alt="GitHub Stats" width="400"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaa-souza&layout=compact&theme=radical" alt="Top Languages" width="335"> |
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anaa-souza&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaa-souza&layout=compact&theme=default" height="160"/>
+</p>
 
 ---
 
-## 🔥 Streak do GitHub  
+## 🔗 Contato
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Anaa-souza&theme=radical&border_radius=5" alt="GitHub Streak">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ana-carolina-fonseca-souza-48743b352/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+  <a href="https://github.com/Anaa-souza" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🧮 Gráfico de Contribuições  
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anaa-souza&theme=react-dark&hide_border=true" alt="Gráfico de Contribuições">
-</div>
-
----
-
-## 📌 Onde me encontrar  
-
-<div align="center">
-
-🌐 [**LinkedIn**](https://www.linkedin.com/in/ana-carolina-fonseca-souza-48743b352/)  
-🐙 [**GitHub**](https://github.com/Anaa-souza)
-
-</div>
-
----
-
-⭐️ Feito com carinho por [**Ana Souza**] 🩷 
-
-
-
-
-
-
+<p align="center">
+  <em>Construindo minha jornada na tecnologia com consistência e aprendizado contínuo.</em>
+</p>
