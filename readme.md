@@ -1,4 +1,4 @@
-<h1 align="center">Ana Souza</h1>
+<h1 align="center">Ana Carolina</h1>
 <p align="center">
   <strong>Estudante de Tecnologia da Informação</strong> • Front-end • UI/UX
 </p>
