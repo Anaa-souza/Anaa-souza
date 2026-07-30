@@ -24,12 +24,7 @@ Busco constantemente evoluir minhas habilidades por meio de projetos práticos e
 
 ---
 
-## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anaa-souza&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaa-souza&layout=compact&theme=default" height="160"/>
-</p>
 
 ---
 
@@ -39,8 +34,8 @@ Busco constantemente evoluir minhas habilidades por meio de projetos práticos e
   <a href="https://www.linkedin.com/in/ana-carolina-fonseca-souza-48743b352/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Anaa-souza" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+ <a href="mailto:anaacarolinafonsecasouza@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
