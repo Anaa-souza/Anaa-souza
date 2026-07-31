@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Anaa-souza&style=for-the-badge&color=8A2BE2"/>
+
 
 </div>
 
