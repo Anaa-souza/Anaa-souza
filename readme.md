@@ -77,8 +77,8 @@ Busco constantemente evoluir minhas habilidades por meio de projetos práticos e
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Anaa-souza/Anaa-souza/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=8A2BE2"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=8A2BE2"/>
+
